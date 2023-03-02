@@ -7,7 +7,7 @@ body {
 }
 
 img {
-  max-width: 600px;
+  max-width: 70%;
   border: 2px solid white;
   border-radius: 5px;
   box-shadow: 2px 2px 10px black;
